@@ -1,0 +1,20 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Assessment data
+data/*.csv
+
+# Generated outputs
+scorer_results/
+validation_predictions.csv
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
